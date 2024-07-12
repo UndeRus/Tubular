@@ -16,11 +16,11 @@ android {
     namespace 'org.schabi.newpipe'
 
     defaultConfig {
-        applicationId "org.polymorphicshade.tubular"
-        resValue "string", "app_name", "Tubular"
+        applicationId "org.polymorphicshade.tubular.unofffix"
+        resValue "string", "app_name", "Tubular Temp Fix"
         minSdk 21
         targetSdk 33
-        versionCode 997
+        versionCode 999
         versionName "0.27.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
